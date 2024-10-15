@@ -1,0 +1,5 @@
+print(1+21)
+print(1.3+4.2)
+print(True)
+print(False)
+print("Diego Melo")
